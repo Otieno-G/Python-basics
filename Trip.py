@@ -8,10 +8,10 @@ vehicle_id = "KDU 324K"
 deliveries = 8
 delivery_cost = float(200)
 total_passengers = 14
-fuel_cost = 100
-driver_pay = 1000
-conductor_pay = 500
-car_service_cost = 200
+fuel_cost =float(1000)
+driver_pay =float(600)
+conductor_pay = float(500)
+car_service_cost = float(200)
 vehicle_model = "Isuzu"
 
 total_fare = fare_cost * total_passengers
