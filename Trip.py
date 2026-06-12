@@ -60,7 +60,7 @@ print("Total     Fueling  Cost    :ksh",:total_fueling_cost)
 print("Total     Service  Cost    :ksh",:total_service_cost)
 ptint("Total     Fare             :ksh",:total_fare)
 print("Total     Delivery  Cost   :ksh",:total_delivery_cost)
-ptint("Super     Metro  Sacco Ltd")
+print("Super     Metro  Sacco Ltd")
 
-
+#This python script shows me everything concerning the trip ,the cost incurred and the amount made in a day by the vehicle 
 
