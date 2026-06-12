@@ -1,6 +1,11 @@
 #Data types
 """We use the type() function to get the data type of an object """
 
+import random
+print(random.randrange(2,10))  #We use it to make random numbers
+
+
+
 x = 12
 y = 6.82
 z = "Lets code together"
@@ -68,13 +73,11 @@ print(type(x))
 print(type(y))   
 print(type(z))
 
-import random
-print(random.randrange(2,10))  #We use it to make random numbers
 
 age = 26
 print(int(age))
 print(float(age))
-print(string(age))
+print(str(age))
 
 
 
